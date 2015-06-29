@@ -1,5 +1,5 @@
 # files-challenge
-INFO 343 Initial Repo
+##INFO 343 First Homework Repository
 
 Thanks for TA'ing the course, it should be a fun few weeks!
 
